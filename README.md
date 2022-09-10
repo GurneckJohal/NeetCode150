@@ -1,2 +1,2 @@
 # NeetCode150
-This repository will contain the my solutions for the problems in NeetCode 150.
+This repository will contain solutions for problems in NeetCode 150.
